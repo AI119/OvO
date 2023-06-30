@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "b460b81abd976181",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e700bb6b7a8be4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b98f2e1498db545d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "连续-连续.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7dbc03d1c55d6973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "参数.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdc63c78922d4555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "使用Google(谷歌)的Colab读取谷歌硬盘数据的方式.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16634c6f7da08c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown更改字体、颜色、大小、设置文字背景色、调整图片大小设置居中.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb20273e6fba347d",
+    "type": "split",
+    "children": [
+      {
+        "id": "44bed2f7703fdb56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "222fcfcc06d5f146",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1719c5ec27dbe755",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "超参数",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50fe9e1e83093286",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202
+  },
+  "right": {
+    "id": "0929ac99326c9f2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec5c11d799a0f4bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06486fd772658d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "连续-连续.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bce59d552911d95",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "250ad02a1faaabd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "连续-连续.md"
+              }
+            }
+          },
+          {
+            "id": "d0cd92300734b05c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "连续-连续.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b98f2e1498db545d",
+  "lastOpenFiles": [
+    "参数.md",
+    "使用Google(谷歌)的Colab读取谷歌硬盘数据的方式.md",
+    "连续-连续.md",
+    "多项式回归.md",
+    "(没写完)时间序列分析.md",
+    "正则化：岭回归和Lasso回归.md",
+    "(没写完)梯度下降.md",
+    "梯度下降和求导的极值点.md",
+    "note/机器学习.md",
+    "随机梯度下降.md",
+    "Markdown更改字体、颜色、大小、设置文字背景色、调整图片大小设置居中.md",
+    "线性回归.md",
+    "欠拟合与过拟合.md",
+    "多项式回归实例.md",
+    "多项式回归方法.md",
+    "ff08852123cdfcabe16d44ce90855ab.png",
+    "9c69f3857324f068856b0271cac9b2e.png",
+    "Pasted image 20230625112931.png",
+    "变量之间的关系.md",
+    "线性回归常用的类.md",
+    "(没写完)K-Means算法.md",
+    "未命名 1",
+    "分享.md",
+    "关于P值.md",
+    "(需要复习)SVM.md",
+    "导入标准化的库.md",
+    "sns箱型图中位数相关分析函数（连续-类别）.md",
+    "类别-连续.md",
+    "Pasted image 20230621105244.png",
+    "对两个类别变量的相关性进行分析（类别-类别）.md",
+    "类别变量和类别变量.md",
+    "提升方法.pdf",
+    "Pasted image 20230607105810.png",
+    "Pasted image 20230607104431.png",
+    "Pasted image 20230607103430.png",
+    "Pasted image 20230606115004.png",
+    "Pasted image 20230606113510.png",
+    "Pasted image 20230606112414.png",
+    "未命名.canvas",
+    "未命名",
+    "汽车价格分析与预测.pdf",
+    "note"
+  ]
+}
