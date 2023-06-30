@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "连续-连续.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dbc03d1c55d6973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "参数.md",
+                "file": "(没写完)时间序列分析.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "超参数",
+                "query": "时间",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202
+    "width": 202,
+    "collapsed": true
   },
   "right": {
     "id": "0929ac99326c9f2a",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "连续-连续.md",
+                "file": "(没写完)时间序列分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "连续-连续.md"
+                "file": "(没写完)时间序列分析.md"
               }
             }
           },
@@ -160,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "连续-连续.md",
+                "file": "(没写完)时间序列分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,9 +178,9 @@
   },
   "active": "b98f2e1498db545d",
   "lastOpenFiles": [
+    "连续-连续.md",
     "参数.md",
     "使用Google(谷歌)的Colab读取谷歌硬盘数据的方式.md",
-    "连续-连续.md",
     "多项式回归.md",
     "(没写完)时间序列分析.md",
     "正则化：岭回归和Lasso回归.md",
