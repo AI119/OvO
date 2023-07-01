@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(没写完)时间序列分析.md",
+                "file": "XGBoost推导过程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "时间",
+                "query": "Xgboost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(没写完)时间序列分析.md",
+                "file": "XGBoost推导过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(没写完)时间序列分析.md"
+                "file": "XGBoost推导过程.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(没写完)时间序列分析.md",
+                "file": "XGBoost推导过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,16 +178,19 @@
   },
   "active": "b98f2e1498db545d",
   "lastOpenFiles": [
+    "(没写完)梯度下降.md",
+    "note/机器学习.md",
+    "随机梯度下降.md",
+    "逻辑回归实例.md",
+    "逻辑回归.md",
+    "逻辑回归推导过程.md",
+    "(没写完)时间序列分析.md",
     "连续-连续.md",
     "参数.md",
     "使用Google(谷歌)的Colab读取谷歌硬盘数据的方式.md",
     "多项式回归.md",
-    "(没写完)时间序列分析.md",
     "正则化：岭回归和Lasso回归.md",
-    "(没写完)梯度下降.md",
     "梯度下降和求导的极值点.md",
-    "note/机器学习.md",
-    "随机梯度下降.md",
     "Markdown更改字体、颜色、大小、设置文字背景色、调整图片大小设置居中.md",
     "线性回归.md",
     "欠拟合与过拟合.md",
@@ -205,10 +208,7 @@
     "(需要复习)SVM.md",
     "导入标准化的库.md",
     "sns箱型图中位数相关分析函数（连续-类别）.md",
-    "类别-连续.md",
     "Pasted image 20230621105244.png",
-    "对两个类别变量的相关性进行分析（类别-类别）.md",
-    "类别变量和类别变量.md",
     "提升方法.pdf",
     "Pasted image 20230607105810.png",
     "Pasted image 20230607104431.png",

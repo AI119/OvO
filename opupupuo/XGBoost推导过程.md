@@ -136,3 +136,30 @@ XGBoost算法是一种基于决策树的Boosting算法。具体来说，XGBoost�
 + XGBoost相对于传统的GBDT具有并行性。
 	+ XGBoost的并行不是在训练基本模型上并行（这里依然是串行），而是在特征上并行（决策树构建过程中）。 
 	+ 特征并行是指在寻找最佳分裂点时，可以同时计算多个特征的增益。这种方法可以显著减少计算时间，因为在每个节点上寻找最佳分裂点是决策树构建过程中最耗时的部分。
+
+
+## XGBoost实例
+
+``` python
+from sklearn.ensemble import GradientBoostingClassifier 
+from sklearn.datasets import make_hastie_10_2 
+from sklearn.model_selection import train_test_split 
+import xgboost as xgb 
+X, y = make_hastie_10_2(n_samples=4000, random_state=1) 
+# XGBoost要求分类的类别为0与1，而当前数据集为-1与1，因此需要转换。
+y = np.where(y==-1, 0, y) 
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.8, random_state=0) 
+# n_estimators：基本评估器数量。 
+# max_depth：最大深度。 
+# learning_rate：学习率。 
+# booster：提升器类型，默认为gbtree。综合表现效果最好。 
+# gamma：分裂节点所需的最小损失减少。值较大时，分裂的次数将会减少，可以防止过拟合。
+# subsample：子样本比例。 
+# colsample_bytree：用于训练每棵树的特征比例。较小的值可以防止过拟合。
+# reg_alpha：L1正则化系数。 
+# reg_lambda：L2正则化系数。 
+xgb_clf = xgb.XGBClassifier(learning_rate=0.2, n_estimators=400, max_depth=3, subsample=0.8, gamma=1, reg_alpha=0, reg_lambda=1, colsample_bytree=0.8 ) 
+xgb_clf.fit(X_train, y_train) 
+print(xgb_clf.score(X_train, y_train))
+print(xgb_clf.score(X_test, y_test))
+```
