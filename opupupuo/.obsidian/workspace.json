@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b9ce2207ccb7949",
+            "id": "bdc63c78922d4555",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,15 +21,38 @@
             }
           },
           {
-            "id": "bdc63c78922d4555",
+            "id": "4d21253b4d11dc4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用Google(谷歌)的Colab读取谷歌硬盘数据的方式.md",
-                "mode": "preview",
+                "file": "评估指标.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1bf76cf004235815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "变量转换的方法.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a7a4429196184ef",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230605084256.png"
               }
             }
           },
@@ -47,6 +70,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -76,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "逻辑回归",
+                "query": "f1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202,
-    "collapsed": true
+    "width": 202
   },
   "right": {
     "id": "0929ac99326c9f2a",
@@ -115,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "逻辑回归.md",
+                "file": "评估指标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "逻辑回归.md"
+                "file": "评估指标.md"
               }
             }
           },
@@ -148,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "逻辑回归.md",
+                "file": "评估指标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,34 +199,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7b9ce2207ccb7949",
+  "active": "4d21253b4d11dc4d",
   "lastOpenFiles": [
+    "2023.07.09笔记.md",
+    "变量转换的方法.md",
+    "情感分析项目拆解，文本类型项目.md",
+    "Pasted image 20230709161028.png",
+    "Pasted image 20230709120344.png",
+    "ROC曲线.md",
+    "逻辑回归.md",
+    "评估指标.md",
+    "Pasted image 20230709093752.png",
+    "异常值处理.md",
+    "Pasted image 20230709093331.png",
+    "逻辑回归实例.md",
+    "(没写完)决策树.md",
+    "Markdown更改字体、颜色、大小、设置文字背景色、调整图片大小设置居中.md",
+    "决策树实例化.md",
+    "Pasted image 20230605084256.png",
+    "线性回归常用的类.md",
+    "使用Google(谷歌)的Colab读取谷歌硬盘数据的方式.md",
+    "TensorFlow注意事项.md",
     "变量之间的关系.md",
     "类别-连续.md",
     "对两个类别变量的相关性进行分析（类别-类别）.md",
-    "未命名 1.md",
-    "Markdown更改字体、颜色、大小、设置文字背景色、调整图片大小设置居中.md",
-    "使用Google(谷歌)的Colab读取谷歌硬盘数据的方式.md",
     "正则化：岭回归和Lasso回归.md",
     "空值填充的类.md",
     "SVD分解.md",
-    "(没写完)决策树.md",
-    "逻辑回归.md",
     "逻辑回归推导过程.md",
     "多项式回归.md",
     "XGBoost推导过程.md",
     "(没写完)梯度下降.md",
     "note/机器学习.md",
-    "随机梯度下降.md",
-    "逻辑回归实例.md",
-    "(没写完)时间序列分析.md",
-    "连续-连续.md",
-    "参数.md",
-    "梯度下降和求导的极值点.md",
-    "线性回归.md",
-    "欠拟合与过拟合.md",
-    "多项式回归实例.md",
-    "多项式回归方法.md",
     "ff08852123cdfcabe16d44ce90855ab.png",
     "9c69f3857324f068856b0271cac9b2e.png",
     "Pasted image 20230625112931.png",
@@ -211,11 +238,6 @@
     "Pasted image 20230621105244.png",
     "提升方法.pdf",
     "Pasted image 20230607105810.png",
-    "Pasted image 20230607104431.png",
-    "Pasted image 20230607103430.png",
-    "Pasted image 20230606115004.png",
-    "Pasted image 20230606113510.png",
-    "Pasted image 20230606112414.png",
     "未命名.canvas",
     "未命名",
     "汽车价格分析与预测.pdf",
