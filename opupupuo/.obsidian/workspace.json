@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bdc63c78922d4555",
+            "id": "38b2e79212c89d70",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "4d21253b4d11dc4d",
+            "id": "fc1b089eb3894b39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "评估指标.md",
+                "file": "安装tensflow.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19ee8ced2eb9d59b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TensorFlow入门.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -100,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "f1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202
+    "width": 202,
+    "collapsed": true
   },
   "right": {
     "id": "0929ac99326c9f2a",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "评估指标.md",
+                "file": "TensorFlow入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "评估指标.md"
+                "file": "TensorFlow入门.md"
               }
             }
           },
@@ -171,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "评估指标.md",
+                "file": "TensorFlow入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,16 +213,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4d21253b4d11dc4d",
+  "active": "19ee8ced2eb9d59b",
   "lastOpenFiles": [
+    "TensorFlow入门.md",
+    "TensorFlow入门.md",
+    "安装tensflow.md",
+    "逻辑回归.md",
+    "提升方法.md",
+    "Pasted image 20230605084256.png",
+    "神经网络基础知识.md",
+    "Pasted image 20230710214214.png",
+    "Pasted image 20230710214200.png",
+    "解决模型误差.md",
+    "(需要复习)SVM.md",
+    "特征选择和特征(提取)抽取.md",
+    "评估指标.md",
     "2023.07.09笔记.md",
     "变量转换的方法.md",
     "情感分析项目拆解，文本类型项目.md",
     "Pasted image 20230709161028.png",
     "Pasted image 20230709120344.png",
     "ROC曲线.md",
-    "逻辑回归.md",
-    "评估指标.md",
     "Pasted image 20230709093752.png",
     "异常值处理.md",
     "Pasted image 20230709093331.png",
@@ -216,7 +241,6 @@
     "(没写完)决策树.md",
     "Markdown更改字体、颜色、大小、设置文字背景色、调整图片大小设置居中.md",
     "决策树实例化.md",
-    "Pasted image 20230605084256.png",
     "线性回归常用的类.md",
     "使用Google(谷歌)的Colab读取谷歌硬盘数据的方式.md",
     "TensorFlow注意事项.md",
@@ -224,20 +248,11 @@
     "类别-连续.md",
     "对两个类别变量的相关性进行分析（类别-类别）.md",
     "正则化：岭回归和Lasso回归.md",
-    "空值填充的类.md",
-    "SVD分解.md",
-    "逻辑回归推导过程.md",
-    "多项式回归.md",
-    "XGBoost推导过程.md",
-    "(没写完)梯度下降.md",
-    "note/机器学习.md",
     "ff08852123cdfcabe16d44ce90855ab.png",
     "9c69f3857324f068856b0271cac9b2e.png",
     "Pasted image 20230625112931.png",
     "未命名 1",
-    "Pasted image 20230621105244.png",
     "提升方法.pdf",
-    "Pasted image 20230607105810.png",
     "未命名.canvas",
     "未命名",
     "汽车价格分析与预测.pdf",
